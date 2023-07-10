@@ -1,11 +1,10 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
-
 ## Overview of Apprenticeship
-- **Host Company**:
-- **Duration**:
-- **Link to Portfolio Website**:
+
+During my time with Multiverse and American Express I have adapted the skills needed to become instrumental in application maintenance and management by implementing security for credentials used for application to application (A2A) authenticated secrets.
+
+This repository is a collection of some of my key learnings during my 2022 - 2023 apprenticeship at American Express.
 
 ## Portfolio Introduction
 - Who you are
