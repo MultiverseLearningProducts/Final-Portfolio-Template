@@ -6,6 +6,8 @@ During my time with Multiverse and American Express I have adapted the skills ne
 
 This repository is a collection of some of my key learnings during my 2022 - 2023 apprenticeship at American Express.
 
+## Durable Skills
+
 ## Projects
 
 ## Acknowledgement
